@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 💫 About Me:<br>🔭 I’m currently studying at Unifor University<br>🤝 I’m looking for help with your projects and contribute to the team<br>🌱 I’m currently learning new types and ways of programming in Javascript, Html and CSS<br>💬 I've keen interest in frontend universe.<br>📫 Feel free to reach me out ravifrei1@gmail.com<br>
 
 
